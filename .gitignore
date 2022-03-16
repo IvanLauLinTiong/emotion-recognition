@@ -1,6 +1,10 @@
 # experiment
 runs
 
+# model
+model/*
+!model/.gitkeep
+
 # dataset
 *.zip
 dataset/*
