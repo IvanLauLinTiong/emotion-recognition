@@ -1,7 +1,11 @@
+# experiment
+runs
+
 # dataset
 *.zip
 dataset/*
 !dataset/.gitkeep
+challenges-*
 
 # IDE files
 .idea

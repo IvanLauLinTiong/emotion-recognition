@@ -6,3 +6,4 @@ tqdm
 opencv-python
 notebook
 ipywidgets
+tensorboard
